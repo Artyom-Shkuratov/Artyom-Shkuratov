@@ -16,7 +16,7 @@
 
 3 - Дипломный проект состоящий ихз трех частей: тестирование веб-приложения, тестирование мобильного приложение, тестирование API [Яндекс.Самокат](https://docs.google.com/spreadsheets/d/1r-qoBbrHfuKr1l7VbLX7fib9fg90MqgFJ-yMQhfLhO8/edit?usp=sharing) 
 
-4 - [БР](https://docs.google.com/spreadsheets/d/1uBhlIzrTg81XMwfAfqA0908o2Gf6JyfcyxNkYMNZrPc/edit?usp=sharing) репорты к дипломному проекту 
+4 - Оформление [БР](https://docs.google.com/spreadsheets/d/1uBhlIzrTg81XMwfAfqA0908o2Gf6JyfcyxNkYMNZrPc/edit?usp=sharing) репорты к дипломному проекту 
 
 
 ---
@@ -24,7 +24,7 @@
 ###  Используемые для работы инструменты:
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-green?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-blueviolet?style=for-the-badge&logo=figma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-lightgrey?style=for-the-badge&logo=json&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)![DevTools](https://img.shields.io/badge/DevTools-blue?style=for-the-badge&logo=googlechrome&logoColor=white)   
+![JSON](https://img.shields.io/badge/JSON-lightgrey?style=for-the-badge&logo=json&logoColor=black) 
 ![Яндекс.Трекер](https://img.shields.io/badge/Яндекс_Трекер-red?style=for-the-badge&logo=yandex&logoColor=white) ![YouTrack](https://img.shields.io/badge/YouTrack-black?style=for-the-badge&logo=youtrack&logoColor=white) ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-lightgrey?style=for-the-badge&logo=charlesproxy&logoColor=black)
 
 
