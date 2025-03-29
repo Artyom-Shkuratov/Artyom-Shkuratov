@@ -16,7 +16,7 @@
 
 3 - Дипломный проект состоящий ихз трех частей: тестирование веб-приложения, тестирование мобильного приложение, тестирование API [Яндекс.Самокат](https://docs.google.com/spreadsheets/d/1r-qoBbrHfuKr1l7VbLX7fib9fg90MqgFJ-yMQhfLhO8/edit?usp=sharing) 
 
-4 - Оформление [БР](https://docs.google.com/spreadsheets/d/1uBhlIzrTg81XMwfAfqA0908o2Gf6JyfcyxNkYMNZrPc/edit?usp=sharing) репорты к дипломному проекту 
+4 - Оформление [Баг репортов](https://docs.google.com/spreadsheets/d/1uBhlIzrTg81XMwfAfqA0908o2Gf6JyfcyxNkYMNZrPc/edit?usp=sharing)  к дипломному проекту 
 
 
 ---
