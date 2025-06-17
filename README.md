@@ -18,6 +18,14 @@
 
 4 - Оформление [Баг репортов](https://docs.google.com/spreadsheets/d/1uBhlIzrTg81XMwfAfqA0908o2Gf6JyfcyxNkYMNZrPc/edit?usp=sharing)  к дипломному проекту 
 
+5 - Автотесты на Python для API [Яндекс Самокат](https://github.com/Artyom-Shkuratov/API_Yandex_Samocat) 
+
+6 -  UI-тесты для веб-приложения [QA-доска объявлений](https://github.com/Artyom-Shkuratov/Autotest-Selenium-Doska) с использованием Selenium WebDriver, Pytest
+
+7 - UI автотесты для проекта [Самокaт](https://github.com/Artyom-Shkuratov/Autotest-Samocat-Selenium-POM) с использованием Selenium WebDriver, pytest, POM
+
+
+
 
 ---
 
@@ -26,7 +34,13 @@
 ![Figma](https://img.shields.io/badge/Figma-blueviolet?style=for-the-badge&logo=figma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-lightgrey?style=for-the-badge&logo=json&logoColor=black) 
 ![Яндекс.Трекер](https://img.shields.io/badge/Яндекс_Трекер-red?style=for-the-badge&logo=yandex&logoColor=white) ![YouTrack](https://img.shields.io/badge/YouTrack-black?style=for-the-badge&logo=youtrack&logoColor=white) ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-lightgrey?style=for-the-badge&logo=charlesproxy&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ###  Контакты:
- [Telegram](https://t.me/DrArtem00)   [Email](shkuratov342@gmail.com)
+[Email](shkuratov342@gmail.com)
