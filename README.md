@@ -10,10 +10,10 @@
 
 ### Ручное тестирование
 
-1 -Функциональное и регрессионое тестирования мобильного приложение [ Яндекс Маршурты](https://docs.google.com/spreadsheets/d/1TxZ58NR4dKDDR2mCACa7JPKwdkES7lYi6QUt3oSadqY/edit?usp=sharing)
+1 - Функциональное и регрессионое тестирования мобильного приложение [ Яндекс Маршурты](https://docs.google.com/spreadsheets/d/1TxZ58NR4dKDDR2mCACa7JPKwdkES7lYi6QUt3oSadqY/edit?usp=sharing)
 
 
-2 - Ручнок тестирование  [API](https://docs.google.com/spreadsheets/d/1MY3ykQqzDWs1d-05S3wyt8Ane_nOtdSIJMNscou_qf8/edit?usp=sharing)
+2 - Ручное тестирование  [API](https://docs.google.com/spreadsheets/d/1MY3ykQqzDWs1d-05S3wyt8Ane_nOtdSIJMNscou_qf8/edit?usp=sharing)
 
 
 3 - Дипломный проект состоящий из трех частей: тестирование веб-приложения, тестирование мобильного приложение, тестирование API [Яндекс.Самокат](https://docs.google.com/spreadsheets/d/1r-qoBbrHfuKr1l7VbLX7fib9fg90MqgFJ-yMQhfLhO8/edit?usp=sharing) 
@@ -24,7 +24,7 @@
 
 1 - Автотесты на Python для API [Яндекс Самокат](https://github.com/Artyom-Shkuratov/API_Yandex_Samocat) 
 
-2 -  UI-тесты для веб-приложения [QA-доска объявлений](https://github.com/Artyom-Shkuratov/Autotest-Selenium-Doska) с использованием Selenium WebDriver, Pytest
+2 - UI-тесты для веб-приложения [QA-доска объявлений](https://github.com/Artyom-Shkuratov/Autotest-Selenium-Doska) с использованием Selenium WebDriver, Pytest
 
 3 - UI автотесты для проекта [Самокaт](https://github.com/Artyom-Shkuratov/Autotest-Samocat-Selenium-POM) с использованием Selenium WebDriver, pytest, POM
 
